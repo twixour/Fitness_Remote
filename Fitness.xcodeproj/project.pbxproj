@@ -11,6 +11,7 @@
 		E4EF34452A4F337100177529 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4EF34442A4F337100177529 /* ContentView.swift */; };
 		E4EF34472A4F337200177529 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4EF34462A4F337200177529 /* Assets.xcassets */; };
 		E4EF344A2A4F337200177529 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4EF34492A4F337200177529 /* Preview Assets.xcassets */; };
+		E4EF34512A4F35B200177529 /* ExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4EF34502A4F35B200177529 /* ExerciseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E4EF34442A4F337100177529 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4EF34462A4F337200177529 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4EF34492A4F337200177529 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E4EF34502A4F35B200177529 /* ExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E4EF34422A4F337100177529 /* FitnessApp.swift */,
 				E4EF34442A4F337100177529 /* ContentView.swift */,
+				E4EF34502A4F35B200177529 /* ExerciseView.swift */,
 				E4EF34462A4F337200177529 /* Assets.xcassets */,
 				E4EF34482A4F337200177529 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4EF34512A4F35B200177529 /* ExerciseView.swift in Sources */,
 				E4EF34452A4F337100177529 /* ContentView.swift in Sources */,
 				E4EF34432A4F337100177529 /* FitnessApp.swift in Sources */,
 			);
